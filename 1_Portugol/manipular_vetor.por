@@ -1,5 +1,5 @@
 programa
-{	
+{	
 	funcao inicio()
 	{
 		inteiro numeros[10], soma = 0
@@ -26,7 +26,7 @@ programa
 		}
 		escreva(soma)
 		escreva("\n\nMédia:\n")
-		escreva(media = soma / 10)
+		escreva(media = soma / 10.0)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -34,7 +34,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 81; 
+ * @POSICAO-CURSOR = 684; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
